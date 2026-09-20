@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Sanjay
 **A passionate Full Stack Developer(MERN)**
 
-Email Me 👉 ✉️ **sanjayrana5113@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **isanjayranaa@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🌱 **Currently learning:** Advanced MERN,React Native, DSA in Java
 - 👯 **I’m looking to collaborate on:** Full-Stack Web Apps & Open-Source Projects
